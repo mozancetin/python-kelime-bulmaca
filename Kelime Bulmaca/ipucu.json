@@ -10,10 +10,10 @@
             "2": "İnsanları bir yerden bir yere götürür",
             "3": "4 tekerleği vardır"
         },
-        "araba2": {
-            "1": "Ehliyet ruhsat lazım",
-            "2": "İnsanlarıbir yere götürür",
-            "3": "6 tekerleği vardır"
+        "bilgisayar": {
+            "1": "Ekranı vardır",
+            "2": "İşlemcisi vardır",
+            "3": "Kasalı veya laptop olabilir"
         }
     }
 }
