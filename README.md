@@ -14,4 +14,5 @@ Başlangıç için sana 30 gold verdim. 1 ipucu açmak 10 gold istiyor. Her bild
 <br/>
 ***Kelime eklemek için*** çalıştırılacak dosya:  `ipucu_ekle.py`
 # Sponsor
-[Sponsoruma teşekkür ederim:][https://goyomod.com/]
+Sponsoruma teşekkür ederim:
+[goyomod][https://goyomod.com/]
