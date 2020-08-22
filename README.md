@@ -16,4 +16,6 @@ Başlangıç için sana 30 gold verdim. 1 ipucu açmak 10 gold istiyor. Her bild
 # Sponsor
 Sponsoruma teşekkür ederim:
 
-[goyomod][https://goyomod.com/]
+[goyomod][1]
+
+[1]: https://goyomod.com/
