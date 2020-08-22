@@ -1,0 +1,19 @@
+{
+    "kelime": {
+        "muz": {
+            "1": "Meyve",
+            "2": "Sarı renkli",
+            "3": "Maymunlar sever"
+        },
+        "araba": {
+            "1": "Ehliyet gerektirir",
+            "2": "İnsanları bir yerden bir yere götürür",
+            "3": "4 tekerleği vardır"
+        },
+        "araba2": {
+            "1": "Ehliyet ruhsat lazım",
+            "2": "İnsanlarıbir yere götürür",
+            "3": "6 tekerleği vardır"
+        }
+    }
+}
