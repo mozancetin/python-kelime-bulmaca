@@ -1,3 +1,3 @@
-***Oyunu oynamak için*** çalıştırılacak dosya: `kelime_bulmaca.py`
+***Oyunu oynamak için*** çalıştırılacak dosya: `kelime_bulmaca.pyw`
 <br/>
-***Kelime eklemek için*** çalıştırılacak dosya: `ipucu_ekle.py`
+***Kelime eklemek için*** çalıştırılacak dosya: `ipucu_ekle.pyw`
