@@ -13,7 +13,7 @@ class Game(QWidget):
 
         super().__init__()
         self.dosya_ac()
-        self.para = 40
+        self.para = 30
         self.count = 2
         self.restart_count = 0
         self.level_count = 1
