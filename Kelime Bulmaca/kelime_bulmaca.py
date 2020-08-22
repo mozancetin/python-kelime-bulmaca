@@ -143,7 +143,7 @@ class Game(QWidget):
 
 
     def guess(self):
-        kullanıcı_tahmini = self.yazi_alani.text()
+        kullanıcı_tahmini = self.yazi_alani.text().lower()
         if kullanıcı_tahmini == "" or self.bildi == True or self.end == True:
             return False
         if self.text.text() != "":
