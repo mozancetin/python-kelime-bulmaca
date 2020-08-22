@@ -10,3 +10,6 @@ Python ve PyQt5 ile yazılmış Kelime Bulmaca oyunu
 Başlangıç için sana 30 gold verdim. 1 ipucu açmak 10 gold istiyor. Her bildiğin kelimede 5 gold kazanıyorsun.
 
 # Not
+***Oyunu oynamak için*** çalıştırılacak dosya: `kelime_bulmaca.py`
+<br/>
+***Kelime eklemek için*** çalıştırılacak dosya: `ipucu_ekle.py`
