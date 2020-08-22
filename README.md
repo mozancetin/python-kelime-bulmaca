@@ -12,4 +12,4 @@ Başlangıç için sana 30 gold verdim. 1 ipucu açmak 10 gold istiyor. Her bild
 # Not
 ***Oyunu oynamak için*** çalıştırılacak dosya: `kelime_bulmaca.py`
 <br/>
-***Kelime eklemek için*** çalıştırılacak dosya: `ipucu_ekle.py`
+***Kelime eklemek için*** çalıştırılacak dosya:  `ipucu_ekle.py`
