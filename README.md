@@ -13,9 +13,3 @@ Başlangıç için sana 30 gold verdim. 1 ipucu açmak 10 gold istiyor. Her bild
 ***Oyunu oynamak için*** çalıştırılacak dosya: `kelime_bulmaca.pyw`
 <br/>
 ***Kelime eklemek için*** çalıştırılacak dosya:  `ipucu_ekle.pyw`
-# Sponsor
-Sponsoruma özel teşekkürlerimi sunarım.
-
-[Goyomod E-Ticaret Yazılımı][1]
-
-[1]: https://goyomod.com/
